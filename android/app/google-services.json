@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020664642470",
+    "project_id": "bucketlistwithfirebase-a02be",
+    "storage_bucket": "bucketlistwithfirebase-a02be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020664642470:android:08ac94b4ad3a7e427fad67",
+        "android_client_info": {
+          "package_name": "com.example.bucket_list_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020664642470-hj2gns05nma99k1o12vmd1nqdkn4jgg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9o3cLTYzDB6u_fmSFIZVdzn3ROCWgcaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020664642470-hj2gns05nma99k1o12vmd1nqdkn4jgg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
